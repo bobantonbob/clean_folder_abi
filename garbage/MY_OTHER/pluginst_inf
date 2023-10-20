@@ -1,0 +1,6 @@
+[plugininstall]
+description=Cloud plugin 2.4 (32bit+64bit)
+type=wfx
+file=cloudplugin.wfx
+defaultdir=cloudplugin
+version=2.4
